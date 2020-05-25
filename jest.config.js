@@ -10,7 +10,7 @@ module.exports = {
         "!**/package.json",
         "!**/package-lock.json",
         "!**/node_modules/**",
-        "!**/coverage/**"
+        "!**/coverage_report/**"
     ],
     coverageReporters :["text","clover"] //html
   };
