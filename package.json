@@ -1,0 +1,13 @@
+{
+  "name": "ds_with_js",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "jest --colors"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^24.5.0"
+  }
+}
